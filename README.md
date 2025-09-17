@@ -1,57 +1,104 @@
-# 👋 Hi, I'm Kalali Ajay Kumar
+# 👋 Hi, I'm Ajay Kumar Kalali
 
-🚘 Data Annotator & QA Specialist in Autonomous Vehicles  
-📍 Hyderabad, India | 🌍 Open to global opportunities  
-📫 Contact: ajaykumarkalali225@gmail.com | +91 9063550165  
-
----
-
-## 🧠 About Me
-
-With 2 years of experience in autonomous vehicle (AV) data annotation and QA, I specialize in labeling 2D/3D/4D data for advanced ML/DL models. I’ve worked on projects involving LiDAR, video, sequential labeling, path net validation, and traffic light QA using tools like **GTaaS**, **3D cuboid**, and **Polygon/Polyline techniques**.
-
-My role has involved critical QA decisions, working with engineering teams, and maintaining annotation integrity under dynamic guidelines.
+📍 **Hyderabad, India**  
+💼 **Process Executive @ Randstad Digital**  
+🚀 Actively seeking global opportunities in AI & Computer Vision  
+📫 **Email:** ajaykumarkalali225@gmail.com  
+📞 **Phone:** +91 90635 50165  
+🔗 [LinkedIn](#) www.linkedin.com/in/ajay-kumar-kalali-155373349
 
 ---
 
-## 🛠️ Tools & Skills
+## 💼 Career Objective
 
-- **Labeling Types**: Bounding Box, Polygon, Polyline, Cuboid, Top-view Parking, Scene & Segment Labeling
-- **Tools**: GTaaS, MS Office, LiDAR Annotation, Path Net, EGM, MSMFNET
-- **Tech**: 2D/3D/4D Annotation, Coarse Validation, Traffic Light QA
-- **Soft Skills**: Critical Thinking, Team Collaboration, Task Management, QA Reporting
+Detail-oriented and committed Process Executive with hands-on experience in labelling and quality assurance for autonomous vehicle datasets. Proven track record of working on 2D, 3D, and 4D computer vision projects using GTaaS tools, ensuring high-quality data annotations for AI model training.
 
 ---
 
-## 🚀 Projects I Worked On
+## 🧾 Professional Experience
 
-### ✅ Annotation Projects:
-- Road Markings, Construction Objects, Ego Lane, Road Hazards
-- Scene Labeling & Segment Labeling
-- Sequential Labeling for 4D GT video data
-- Top-View Parking (ParkNet) and Traffic Light Visibility QA
+### Process Executive  
+**Randstad Digital Private Limited – Remote (Pune HQ)**  
+📅 *August 17, 2023 – Present*
 
-### 🔍 QA Projects:
-- Validating annotations for ML model dashboards
-- Identifying and resolving ambiguous labeling cases
-- Peer-review and documentation of label decisions
+**Key Projects & Responsibilities:**
+
+- Worked on GTaaS labelling tool across multiple projects:
+  - Segment Labeller
+  - Lane Labeller
+  - Scene Labeller
+  - Roadsign Labeller
+  - Top View Labeller
+  - Occupancy
+  - Clip Labeller
+  - Frame Labeller
+- Roles: Labeler + Quality Analyst (QA)
+- Workflows: Label & QA, Label Only, QA First, Single Stage, Fixed/Dynamic QA
+- Annotated for:
+  - Ego lane disturbance
+  - Obstacle detection
+  - Satellite view labeling
+  - LiDAR data correction
+  - Parking area annotation using top view
+- Satellite and LiDAR-based labeling in 2D, 3D, 4D
+- Trained 10+ team members and conducted knowledge-sharing sessions
+- Coordinated with TL, QA, Audit, SME, HR via meetings and professional emails
 
 ---
 
-## 📌 Portfolio Repositories (Coming Soon!)
+## 🎓 Education
 
-- `road-markings-labeling-sample` – Sample annotations & screenshots
-- `lidar-3d-cuboid-demo` – 3D point cloud visualization examples
-- `qa-report-template` – Sample QA checklists & error logs
+**B.Tech in Electrical and Electronics Engineering**  
+*Geethanjali College of Engineering and Technology, Hyderabad*  
+📅 *Graduated in 2023*  
+📊 *CGPA:* 6.17
+
+---
+
+## 🛠️ Skills
+
+**Technical:**
+- GTaaS Labelling Tool
+- 2D, 3D, 4D Annotation
+- LiDAR & Satellite Data Labeling
+- Frame-by-Frame Object Detection
+- Video Annotation for Autonomous Driving
+- QA & Review Process
+- Parking Space & Top-View Mapping
+
+**Soft Skills:**
+- Team Training & Coordination
+- Attention to Detail
+- Time Management
+- Problem Solving
+- Email Communication
+
+**Tools & Technologies:**
+- Windows OS, Microsoft Office
+- Basic Computer Vision
+- Familiarity with Python (beginner level)
 
 ---
 
-## 📈 Goals
+## 🚀 Learning Goals
 
-- Join international AV or annotation teams remotely or abroad
-- Contribute to open-source AV labeling tools
-- Learn basic Python to support automated QA processes
+Currently focused on upskilling in:
+
+- Computer Vision Fundamentals (YOLO, OpenCV)
+- Python for AI & Automation
+- Cloud Tools (AWS SageMaker, Azure ML)
+- Annotation & QA Automation
+- AI for Autonomous Driving
 
 ---
-🔗 **LinkedIn**: [www.linkedin.com/in/ajay-kumar-155373349](#)
+
+## 🗣️ Languages
+
+- **English** – Fluent  
+- **Telugu** – Native  
+- **Hindi** – Beginner
+
+---
+
+> 📌 *“Always striving to learn, improve, and contribute to the future of AI-powered automation.”*
 
